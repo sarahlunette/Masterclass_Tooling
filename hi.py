@@ -1,2 +1,2 @@
 def hi():
-    print('hi !')
+    print('hi, how are you ?')
